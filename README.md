@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **ReactJS**
 
+- Check my portfolio **https://abosedeprecious.netlify.app/**
+
 - 📫 How to reach me **preciousbose1614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
