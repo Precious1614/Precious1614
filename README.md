@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **EdTech**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently seeking for **internship**
 
 - 💬 Ask me about **ReactJS**
 
