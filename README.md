@@ -8,14 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/AjolokoP" target="blank"><img src="https://img.shields.io/twitter/follow/AjolokoP?logo=twitter&style=for-the-badge" alt="AjolokoP" /></a> </p>
 
-- 🔭 I’m currently working on **EdTech**
-
-- 🌱 I’m currently seeking for **internship**
-
-- 💬 Ask me about **ReactJS**
-
-- Check my portfolio **https://abosedeprecious.netlify.app/**
-
 - 📫 How to reach me **preciousbose1614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
